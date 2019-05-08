@@ -1,0 +1,33 @@
+html {
+     background: black;
+     font-size: 16px;
+     color: lightgray;
+}
+
+body {
+     margin: 1rem;
+}
+
+h1 {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 6rem;
+     text-align: center;
+     color: white;
+}
+
+.photo {
+     text-align: center;
+}
+
+caption {
+     font-weight: bold;
+     font-size: x-large;
+}
+
+table {
+     border-collapse: collapse;
+}
+
+table, th, td {
+     border: 1px solid lightgray;
+}
